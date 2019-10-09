@@ -16,6 +16,7 @@
     <div class="navbar-nav">
       <a class="nav-item nav-link active" href="<?= BASEURL ?>">Home <span class="sr-only">(current)</span></a>
       <a class="nav-item nav-link" href="<?= BASEURL ?>/about">about</a>
+      <a class="nav-item nav-link" href="<?= BASEURL ?>/mahasiswa">mahasiswa</a>
     </div>
   </div>
   </div>
